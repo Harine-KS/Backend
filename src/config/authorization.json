@@ -1,0 +1,22 @@
+{
+    "Admin": [
+        "books/get",
+        "books/getall",
+
+        "books/getAllUser",
+        "books/deleteUser",
+
+        "books/getById",
+        "books/updateById"
+    ],
+    "User": [
+        "books/post",
+        "books/get",
+        "books/delete",
+        "books/update",
+        "books/getAllById",
+
+        "books/getById",
+        "books/updateById"
+    ]
+}
